@@ -1632,7 +1632,7 @@ msgid "Initscript"
 msgstr "Скрипт инициализации"
 
 msgid "Initscripts"
-msgstr "Скрипты инциализации"
+msgstr "Скрипты инициализации"
 
 msgid "Install"
 msgstr "Установить"
